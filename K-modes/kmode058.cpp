@@ -1,3 +1,10 @@
+/**
+ * @modified
+ * @author keiraqz
+ * @email keira.qzhou@gmail.com
+ * @date 2014-08-11
+ */
+
 # include <cstdlib>
 # include <iostream>
 # include <iomanip>
@@ -28,7 +35,7 @@ void Kmode::clustr ( double x[], double d[], double dev[], int b[], double f[],
 //
 //  Purpose:
 //
-//    CLUSTR uses the K-means algorithm to cluster data.
+//    CLUSTR uses the K-modes algorithm to cluster data.
 //
 //  Discussion:
 //
@@ -48,6 +55,15 @@ void Kmode::clustr ( double x[], double d[], double dev[], int b[], double f[],
 //
 //    Original FORTRAN77 version by David Sparks.
 //    C++ version by John Burkardt.
+//
+//  Modified: 
+//  
+//    11 August 2014
+//
+//  Author:
+//
+//    Qi Zhou
+//
 //
 //  Reference:
 //

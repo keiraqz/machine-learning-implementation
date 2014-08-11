@@ -4,6 +4,11 @@
  * @author yekeren
  * @version 1.0.0
  * @date 2014-01-26
+ *
+ * @modified
+ * @author keiraqz
+ * @email keira.qzhou@gmail.com
+ * @date 2014-08-11
  */
  
 #include "trietree.h"

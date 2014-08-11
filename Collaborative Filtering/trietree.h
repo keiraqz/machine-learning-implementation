@@ -1,3 +1,10 @@
+/**
+ * @file trietree.h
+ * @author keiraqz
+ * @email keira.qzhou@gmail.com
+ * @date 2014-08-11
+ */
+
 #ifndef TRIETREE_H
 #define TRIETREE_H
 

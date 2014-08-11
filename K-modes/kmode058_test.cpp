@@ -1,3 +1,10 @@
+/**
+ * @modified
+ * @author keiraqz
+ * @email keira.qzhou@gmail.com
+ * @date 2014-08-11
+ */
+
 # include <cstdlib>
 # include <iostream>
 # include <fstream>
@@ -20,11 +27,11 @@ int main ( )
 //
 //  Purpose:
 //
-//    MAIN is the main program for ASA058_PRB.
+//    MAIN is the main program for kmode058_test.
 //
 //  Discussion:
 //
-//    ASA058_PRB tests the ASA058 library.
+//    kmode058_test tests the K-mode algorithm.
 //
 //  Licensing:
 //
@@ -38,6 +45,14 @@ int main ( )
 //
 //    John Burkardt
 //
+//  Modified:
+//
+//    11 August 2014
+//
+//  Author:
+//
+//    Qi Zhou
+
 {
   Kmode *clustring = new Kmode();
 
@@ -81,6 +96,13 @@ void test01 (Kmode *clustring)
 //
 //    John Burkardt
 //
+//  Modified:
+//
+//    11 August 2014
+//
+//  Author:
+//
+//    Qi Zhou
 {
 
 // Soybean-small

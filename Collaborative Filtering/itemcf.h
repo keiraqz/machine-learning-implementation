@@ -1,3 +1,10 @@
+/**
+ * @file itemcf.h
+ * @author keiraqz
+ * @email keira.qzhou@gmail.com
+ * @date 2014-08-11
+ */
+
 #ifndef ITEMCF_H
 #define ITEMCF_H
 
