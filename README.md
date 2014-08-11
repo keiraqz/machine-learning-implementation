@@ -4,11 +4,13 @@ machine-learning-implementation
 Some machine learning algorithms implemented in C++. (Modified based on existing libraries.)
 
 List of Algorithm:
-Collaborative Filtering
+
+Item-based Collaborative Filtering with Correlation Similarity
+
 K-Modes Clustering [1]
 
 
-
+* Please email me with any questions or bugs in the code: keira.qzhou@gmail.com
 
 
 
