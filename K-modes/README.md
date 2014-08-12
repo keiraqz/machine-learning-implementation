@@ -24,11 +24,11 @@ Two testsets are provide:
 
 1. Soybean-small dataset from UCI: https://archive.ics.uci.edu/ml/datasets/Soybean+(Small)
 
-The algorithm is tested and achieves 81.15% Precision.
+  The algorithm is tested and achieves 81.15% Precision.
 
 2. Internet Ads dataset from UCI: https://archive.ics.uci.edu/ml/datasets/Internet+Advertisements
 
-3 continuous attributes are removed.
+  3 continuous attributes are removed.
 
 The algorithm is tested and achieves 93.5% Precision.
 
