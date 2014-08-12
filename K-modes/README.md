@@ -30,7 +30,8 @@ Two testsets are provide:
 
   3 continuous attributes are removed.
 
-The algorithm is tested and achieves 93.5% Precision.
+  The algorithm is tested and achieves 93.5% Precision.
+
 
 Please include references when using the implementation and the datasets.
 
